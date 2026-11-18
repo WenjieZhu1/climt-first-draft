@@ -1,0 +1,37 @@
+/* My CSS for the cooking website */
+body {
+  background-color: #fafaf5;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
+h1 {
+  color: #315d3c;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #315d3c;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.food-box, .recipe-box {
+  background-color: white;
+  padding: 18px;
+  border: 1px solid #dddddd;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #eeeeee;
+  font-size: 14px;
+}
